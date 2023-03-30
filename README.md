@@ -150,9 +150,10 @@ See the [open issues](https://github.com/les-bogoss/LaraDESK/issues) for a full 
 * Célian HAMON    - hamoncelian@gmail.com
 * Théo TRUVELOT - theotruvelott@gmail.com 
 * Alan COURTOIS  - alancrts27@gmail.com
+* Anubhav Gain  - iamanubhavgain@gmail.com
 * Evan OSMONT     - evan.osmont@gmail.com
 
-Project Link: [https://github.com/les-bogoss/LaraDESK](https://github.com/les-bogoss/LaraDESK)
+Project Link: [https://github.com/mranv/LaraDESK](https://github.com/mranv/LaraDESK)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
