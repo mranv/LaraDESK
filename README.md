@@ -5,14 +5,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-<img src="https://img.shields.io/github/workflow/status/les-bogoss/LaraDESK/Laravel?label=%20TESTS&logo=laravel&style=for-the-badge">
+<img src="https://img.shields.io/github/workflow/status/mranv/LaraDESK/Laravel?label=%20TESTS&logo=laravel&style=for-the-badge">
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/les-bogoss/LaraDESK">
+  <a href="https://github.com/mranv/LaraDESK">
     <img src="logo.png" alt="Logo" height="120">
   </a>
 
@@ -21,12 +21,12 @@
   <p align="center">
     A simple but yet complete Helpdesk app made in laravel
     <br />
-    <a href="https://github.com/les-bogoss/LaraDESK"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mranvLaraDESK"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/les-bogoss/LaraDESK/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
+    <a href="https://github.com/mranv/LaraDESK/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
     ·
-    <a href="https://github.com/les-bogoss/LaraDESK/issues/new?assignees=&labels=&template=bug_report.md&title=">Report a Bug</a>
+    <a href="https://github.com/mranv/LaraDESK/issues/new?assignees=&labels=&template=bug_report.md&title=">Report a Bug</a>
   </p>
 </div>
 
